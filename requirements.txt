@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-community
+langchain-chroma
+langchain-nvidia-ai-endpoints
+langchain-text-splitters
+pypdf
